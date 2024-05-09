@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Richeliot
-- 👀 I’m interested in the most effective work, to elevate the possibilities and get things done.
-- 🌱 current learning curve: **Figma** -> builder.**io** -> Angular **SSR** -> Angular **Signals**
+- 👀 We did evolve from 0 & 1 to strictly defined words, yet it understands us as we speak,
+- let's combine our pros & cons to move humanity into the new unknown  
+- 🌱 **Figma** with builder.**io**,
+-  Angular??
+-  **WebAssembly** components - the last piece of abstraction ?
 
 - started **5.9.2024**
 - never stop since 
