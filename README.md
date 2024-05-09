@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Richeliot
 - 👀 I’m interested in the most effective work, to elevate the possibilities and get things done.
-- 🌱 I’m currently learning Figma designs, builder.io, update of knowledge within angular signals.
-- 💞️ I’m looking to collaborate on projects I've created first.
-- 📫 How to reach me ? Reach me in my code.
-- 😄 Pronouns: No tengo.
-- ⚡ Fun fact: The UI development took half of my life to be happy with, however it's nowhere close to what can we do now with few clicks.
+- 🌱 current learning curve: **Figma** -> builder.**io** -> Angular **SSR** -> Angular **Signals**
+
+- started **5.9.2024**
+- never stop since 
